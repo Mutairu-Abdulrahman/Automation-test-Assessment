@@ -1,0 +1,4 @@
+node_modules
+cypress/e2e/MyFirstTest.cy.js
+cypress/e2e/AutomationTestingAssessment.cy.js
+cypress/e2e/spec.cy.js
